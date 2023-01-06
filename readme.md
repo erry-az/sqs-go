@@ -2,6 +2,13 @@
 
 ## command
 
+available `action` :
+- create (create new queue)
+- depth (check depth)
+- purge (remove queue)
+- send (send message to queue)
+- receive (consume message)
+
 ### use AWS SQS 
 
 ```shell
