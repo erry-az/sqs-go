@@ -1,5 +1,13 @@
 # SQS golang
 
+don't forget to add aws token on `~/.aws/config`
+```shell
+[default]
+AWS_ACCESS_KEY_ID=
+AWS_SECRET_ACCESS_KEY=
+AWS_DEFAULT_REGION=ap-southeast-1
+```
+
 ## command
 
 available `action` :
